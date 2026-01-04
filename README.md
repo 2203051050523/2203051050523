@@ -1,8 +1,17 @@
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Saurabh+Gupta;Full+Stack+Developer;System+Design+Enthusiast;AI+%26+ML+Explorer&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22">
+  </a>
+</p>
+
+---
+
 # 👋 Hi, I'm **Saurabh Gupta**
 
 🚀 **Full Stack Developer** | 💻 Web Engineer | 🧠 System Design Enthusiast  
 
-I am a **Full Stack Developer** passionate about building **scalable, efficient, and user-friendly web applications**. I enjoy working across both frontend and backend systems and actively explore **System Design, AI, and ML** to create intelligent, data-driven solutions.
+I am a **Full Stack Developer** passionate about building **scalable, efficient, and user-friendly web applications**. I work across frontend & backend systems and explore **AI & ML** to build intelligent solutions.
 
 ---
 
@@ -45,24 +54,31 @@ I am a **Full Stack Developer** passionate about building **scalable, efficient,
 
 ## 🚀 Featured Projects  
 
-### 🔹 Online Event Management Platform (Townscript-like)  
+### 🔹 Online Event Management Platform  
 - Full-stack system using **FastAPI & MongoDB**  
 - Role-based access (Admin, Organizer, User)  
 - Ticket booking & payment flow  
-- Designed for scalability  
+- Scalable architecture  
 
 ### 🔹 AI-based Career Counseling System  
 - Backend Lead & Project Owner  
 - ML-based recommendation engine  
-- Secure API & structured data handling  
+- Secure APIs & structured data handling  
 
 ---
 
 ## 📈 GitHub Stats  
 
-![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="165">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+---
+
+## 🐍 Contribution Snake  
+
+![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -79,14 +95,7 @@ I am a **Full Stack Developer** passionate about building **scalable, efficient,
 
 ---
 
-## 📌 ATS Keywords  
-Full Stack Developer, Web Development, REST APIs, Node.js, Express.js, FastAPI, MongoDB, PostgreSQL, System Design, Scalability, Load Balancing, Caching, Authentication, Microservices, AI, Machine Learning  
-
----
-
 ## 📫 Connect With Me  
 🔗 LinkedIn | 📸 Instagram  
-
-💬 Always open to collaborating on real-world projects & technical discussions.
 
 ⭐ **Thanks for visiting my profile!**
