@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Saurabh%20Gupta&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Saurabh%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center">🚀 Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Full Stack Developer | System Design | DevOps | AI/ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -12,79 +12,91 @@
 
 ---
 
-## 👋 About Me
+## 👋 Hi, I'm **Saurabh Gupta**
 
-I’m **Saurabh Gupta**, a **Full Stack Developer** passionate about building **scalable, high-performance web applications** and **clean system architectures**.  
-I enjoy working across the stack — from **interactive UIs** to **robust backend services** and **cloud deployment**.
-
----
-
-## 🔭 Currently Working On
-- 🚀 **Full Stack Web Applications**  
-  👉 https://github.com/your-username/project-name
-
-## 👯 Looking to Collaborate On
-- 🤝 **Open Source & Full Stack Projects**
-
-## 🤝 Looking for Help With
-- 🧠 **System Design & Scalability**
-
-## 🌱 Currently Learning
-- Advanced **React & Next.js**
-- **Node.js, NestJS & Microservices**
-- **Docker, CI/CD & AWS**
-- **AI / ML Basics**
-
-## 💬 Ask Me About
-**JavaScript, React, Node.js, APIs, Databases, System Design**
-
-## 📫 How to Reach Me
-📧 **example@gmail.com**
-
-## 👨‍💻 Portfolio
-🌐 https://your-portfolio-link.com
-
-## 📝 Blogs
-✍️ https://your-blog-link.com
-
-## 📄 Resume
-📄 https://your-resume-link.com
-
-## ⚡ Fun Fact
-😄 I debug more than I sleep.
+I am a **Full Stack Developer** with a strong interest in **System Design, DevOps**, and **scalable application architectures**.  
+I enjoy building **end-to-end products** — from intuitive frontend interfaces to **robust backend systems**, databases, and cloud deployments.  
+Alongside full stack development, I actively explore **Artificial Intelligence (AI)** and **Machine Learning (ML)** to create intelligent, data-driven solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Interests
+- Full Stack Web Development  
+- Backend Engineering & API Development  
+- System Design (Scalable, Distributed Systems)  
+- DevOps & Cloud Infrastructure  
+- Artificial Intelligence (AI) & Machine Learning (ML)  
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,go,php" />
-</p>
+---
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind,bootstrap,redux" />
-</p>
+## 📚 Currently Learning & Working With
+- **Frontend**: React, Next.js, Tailwind CSS  
+- **Backend**: Node.js, Express.js, FastAPI  
+- **Databases**: MongoDB, PostgreSQL  
+- **System Design**: Scalability, Caching, Load Balancing  
+- **DevOps**: Docker, CI/CD, Cloud Deployment (AWS)  
 
-### 🧠 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" />
-</p>
+---
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite" />
-</p>
+## 🛠️ Technical Skills
 
-### ⚙️ DevOps & Tools
+### 🔹 Frontend
+- React, Next.js  
+- HTML5, CSS3, Tailwind CSS  
+- State Management (Redux)  
+
+### 🔹 Backend & APIs
+- Node.js, Express.js, FastAPI  
+- REST APIs, JWT Authentication, RBAC  
+- Microservices Architecture  
+
+### 🔹 Databases
+- MongoDB, PostgreSQL  
+- Database Modeling & Indexing  
+
+### 🔹 System Design
+- High-Level & Low-Level Design  
+- Scalability & Load Balancing  
+- Caching (Redis)  
+- Message Queues (Basics)  
+
+### 🔹 DevOps & Cloud
+- Docker & Containerization  
+- CI/CD Pipelines  
+- Cloud Deployment (AWS – Basics)  
+- Monitoring & Logging  
+
+---
+
+## 🤝 Soft Skills
+- 🗣️ Communication Skills  
+- 👥 Team Collaboration & Leadership  
+- 📋 Ownership & Management Mindset  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Full Stack Web Application
+- End-to-end application with **React + Node.js**  
+- Secure authentication & role-based access  
+- Scalable backend architecture  
+
+### 🔹 AI-Powered Application
+- Integrated **ML-based recommendations**  
+- Backend APIs & secure data handling  
+
+---
+
+## ⚙️ Tech Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,mongodb,postgres,redis,docker,aws,linux,git,github" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
@@ -100,33 +112,33 @@ I enjoy working across the stack — from **interactive UIs** to **robust backen
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Career Focus
+**Open to Roles:**  
+- Full Stack Developer  
+- Software Engineer  
+- Backend Developer  
+
+---
+
+## 🧩 Core Keywords (ATS Optimized)
+Full Stack Development, React, Node.js, FastAPI, MongoDB, PostgreSQL,  
+REST APIs, System Design, Scalability, Load Balancing, Caching, Redis,  
+Docker, CI/CD, Cloud Computing, AWS, Microservices, DevOps
+
+---
+
+## 📫 Connect With Me
 
 <p>
   <a href="https://github.com/your-username">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://linkedin.com/in/your-username">
+  <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/your-username">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
 </p>
 
 ---
 
-## ☕ Support Me
-
-<p>
-  <a href="https://buymeacoffee.com/your-username">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-  <a href="https://ko-fi.com/your-username">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white" />
-  </a>
-</p>
-
----
-
-⭐ **If you like my work, consider starring my repositories!**
+⭐ **Thank you for visiting my profile!**  
+💬 Always open to discussions, collaborations, and exciting full stack projects.
