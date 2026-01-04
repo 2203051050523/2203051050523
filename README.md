@@ -11,16 +11,7 @@
 
 🚀 **Full Stack Developer** | 💻 Web Engineer | 🧠 System Design Enthusiast  
 
-I am a **Full Stack Developer** passionate about building **scalable, efficient, and user-friendly web applications**. I work across frontend & backend systems and explore **AI & ML** to build intelligent solutions.
-
----
-
-## 🧠 Interests  
-- Full Stack Web Development  
-- Backend Engineering & API Development  
-- System Design (Scalable & Distributed Systems)  
-- Artificial Intelligence (AI)  
-- Machine Learning (ML)  
+I am a **Full Stack Developer** passionate about building **scalable, efficient, and user-friendly web applications**. I work across frontend & backend systems and explore **AI & ML** to build intelligent solutions. 
 
 ---
 
@@ -54,15 +45,8 @@ I am a **Full Stack Developer** passionate about building **scalable, efficient,
 
 ## 🚀 Featured Projects  
 
-### 🔹 Online Event Management Platform  
-- Full-stack system using **FastAPI & MongoDB**  
-- Role-based access (Admin, Organizer, User)  
-- Ticket booking & payment flow  
-- Scalable architecture  
-
-### 🔹 AI-based Career Counseling System  
-- Backend Lead & Project Owner  
-- ML-based recommendation engine  
+### 🔹 AI-based Blog App
+- Full Stack & Project Owner  
 - Secure APIs & structured data handling  
 
 ---
@@ -74,13 +58,6 @@ I am a **Full Stack Developer** passionate about building **scalable, efficient,
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="165">
 </p>
 
----
-
-## 🐍 Contribution Snake  
-
-![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🤝 Soft Skills  
 - Communication 🗣️  
